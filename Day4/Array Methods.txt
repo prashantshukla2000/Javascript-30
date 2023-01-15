@@ -1,0 +1,1 @@
+Array Methods such as filter,map,sort,reduce.
