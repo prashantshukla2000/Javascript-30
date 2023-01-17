@@ -1,1 +1,4 @@
 Ajax Type Ahead with fetch Commit
+We are able to create a search bar that uses data from an endpoint that has a lit 1000 cities and
+when we type in t some word it searches the whole database and gives the data that then shown 
+by the use of li's.
